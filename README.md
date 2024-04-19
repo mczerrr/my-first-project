@@ -3,3 +3,5 @@ saya membuat projek web simple untuk tugas sekolah, saya akan memberikan update 
 
 update :
 - saya telah berhasil membuat website python sederhana
+ 
+penjelasan : 

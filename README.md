@@ -5,3 +5,4 @@ update :
 - saya telah berhasil membuat website python sederhana
  
 penjelasan : 
+- saya mendapat tugas untuk membuat projek dengan bahasa program python untuk pekerjaan rumah mata pelajaran tik
